@@ -1,0 +1,1 @@
+Get-MailboxFolderStatistics -Identity nuck.chorris@contoso.com | select Name, FolderId, FolderPath
