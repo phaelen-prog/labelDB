@@ -5,7 +5,7 @@
 #Configure mailbox properties
 $userId = 'phaelen@enginetech.com'
 $folderID = '66DF478E71DDBF4BAFD4F5CF07FA97E700001F5894480000' 
-$fileName = "$( $env:USERPROFILE )\Downloads\test.txt"
+$fileName = "$( $env:USERPROFILE )\Coding\labelDB\test.txt"
 $tId = '2c89f133-08cf-46a4-ad4a-a4d82ec21b41'
 $appId = 'd5f99f75-9f1b-453a-afa9-e555ccdeefce'
 $cert = Get-ChildItem 'Cert:\LocalMachine\My\23793C1567326C86FD729F4DEF64B2CC2EE1B44D'
